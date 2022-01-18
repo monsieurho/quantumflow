@@ -128,10 +128,6 @@
     justify-content: center;
     align-items: center;
   }
-  .crypto-scraper span {
-    margin-left: 10px;
-    margin-top: 0px;
-  }
   .crypto-scraper svg {
     margin: 0px;
     margin-bottom: -7px;
@@ -149,8 +145,8 @@
     align-items: center;
     min-height: 100vh;
     overflow: hidden;
-    background-color:#fff;
-    background-image:url();
+    background-color: #fff;
+    background-image: url();
   }
 
   .hero-text-container {
@@ -161,7 +157,7 @@
     align-items: center;
     position: absolute;
     margin-top: -30px;
-    color:#111;
+    color: #111;
   }
 
   .hero-text-container h1 {
